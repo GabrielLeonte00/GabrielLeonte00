@@ -1,4 +1,4 @@
-#Gabriel Leonte - @GabrielLeonte00
+<h1 align="center">Gabriel Leonte - @GabrielLeonte00</h1>
 
 <!--
 **GabrielLeonte00/GabrielLeonte00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
